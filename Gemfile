@@ -2,6 +2,9 @@
 
 source "https://rubygems.org"
 
+# Specify your dependencies in com-http_client.gemspec
+gemspec
+
 group :test do
 end
 

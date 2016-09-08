@@ -8,5 +8,5 @@ module ::Com::HttpClient
 end
 
 
-require "com/client/error"
-require "com/client/standard_error"
+require "com/http_client/error"
+require "com/http_client/standard_error"

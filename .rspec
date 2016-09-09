@@ -1,0 +1,3 @@
+--color
+--require spec_helper
+--require com-http_client_helper

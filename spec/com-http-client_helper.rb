@@ -3,4 +3,4 @@
 $LOAD_PATH.unshift(File.expand_path("../../lib", __FILE__))
 
 
-require "com-http_client"
+require "com-http-client"

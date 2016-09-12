@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# Specify your dependencies in com-http_client.gemspec
+# Specify your dependencies in com-http-client.gemspec
 gemspec
 
 group :test do

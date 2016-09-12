@@ -3,4 +3,5 @@
 require "com"        # GOTCHA: delivered by "com-common" gem
 require "com/client" # GOTCHA: delivered by "com-client" gem
 
-require "com/http_client"
+require "com/http"
+require "com/http/client"
